@@ -1,5 +1,9 @@
 /* ! normalize.css v1.0.0 | MIT License | git.io/normalize */
-
+/*Lobster font */
+@font-face {
+    font-family: 'Lobster';
+    src: url('../font/Lobster.otf');
+}
 /* ==========================================================================
 HTML5 display definitions
 ========================================================================== */
@@ -277,9 +281,52 @@ Subscribe
 /* ==========================================================================
 CTA
 ========================================================================== */
-.ignite-cta { background-color: #242830; padding: 70px 0; }
+.wedding-location {
+    background: url(../img/17.jpg) no-repeat fixed center center;
+    background-size: 100%;
+    background-position-y: 0;
+}
+.ignite-cta { background: rgba(0,0,0,.7); padding: 100px 0; }
 .ignite-btn { display: inline-block; padding: 25px 40px; color: #fff; border: solid 1px #fff; text-transform: uppercase; font-weight: bold; letter-spacing: 1px; }
 .ignite-btn:hover, .ignite-btn:focus { color: #3dc9b3; border: solid 1px #3dc9b3; }
+.rsvp-title {
+    font-family: 'Lobster', cursive;
+    display: block;
+    color: #fff;
+    font-size: 40px;
+    line-height: normal;
+    margin-bottom: 25px;
+    letter-spacing: 0.025em;
+}
+.rsvp a {
+    margin: 0 20px;
+}
+.default-btn {
+    text-transform: uppercase;
+    background: transparent;
+    color: #fff;
+    font-size: 16px;
+    line-height: normal;
+    letter-spacing: 0.025em;
+    font-weight: 700;
+    position: relative;
+    padding: 12px 40px;
+    border: 1px solid #fff;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+    border-radius: 0px;
+}
+.default-btn:hover, .default-btn.active, .default-btn:active {
+    color: #fff;
+    z-index: 1;
+}
+.default-btn:hover {
+    background: #3dc9b3;
+    border: 1px solid #3dc9b3;
+}
 /* ==========================================================================
 Team
 ========================================================================== */
