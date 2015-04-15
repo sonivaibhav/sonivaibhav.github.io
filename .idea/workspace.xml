@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HalcyonDaysTemplate.iws" />
@@ -334,7 +333,7 @@
       <workItem from="1429115970898" duration="1538000" />
       <workItem from="1429119045852" duration="127000" />
       <workItem from="1429119181978" duration="6276000" />
-      <workItem from="1429129607633" duration="1302000" />
+      <workItem from="1429129607633" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -352,11 +351,15 @@
       <created>1429130251146</created>
       <updated>1429130251146</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="font added&#10;&#10;font added&#10;">
+      <created>1429132748472</created>
+      <updated>1429132748472</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49877000" />
+    <option name="totallyTimeSpent" value="50176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
