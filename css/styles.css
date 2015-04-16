@@ -11,6 +11,9 @@ HTML5 display definitions
 /* * Corrects `block` display not defined in IE 6/7/8/9 and Firefox 3. */
 
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary { display: block; }
+#home nav {
+    background: url(../img/header_bg.png);
+}
 /* * Corrects `inline-block` display not defined in IE 6/7/8/9 and Firefox 3. */
 audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 /* * Prevents modern browsers from displaying `audio` without controls.
