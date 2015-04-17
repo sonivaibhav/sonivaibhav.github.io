@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/marriageceremony.jpg" afterPath="$PROJECT_DIR$/img/marriageceremony.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/receptionceremony.jpg" afterPath="$PROJECT_DIR$/img/receptionceremony.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HalcyonDaysTemplate.iws" />
@@ -71,9 +70,10 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="301" column="72" selection-start="18856" selection-end="18856" vertical-scroll-proportion="0.27631578" vertical-offset="5033" max-vertical-offset="8347">
+            <state line="193" column="18" selection-start="10478" selection-end="10478" vertical-scroll-proportion="0.8881579" vertical-offset="3011" max-vertical-offset="8228">
               <folding>
                 <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -348,7 +348,7 @@
       <workItem from="1429119045852" duration="127000" />
       <workItem from="1429119181978" duration="6276000" />
       <workItem from="1429129607633" duration="2845000" />
-      <workItem from="1429220410759" duration="7146000" />
+      <workItem from="1429220410759" duration="9101000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -386,11 +386,15 @@
       <created>1429230537000</created>
       <updated>1429230537000</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="image changes">
+      <created>1429230602480</created>
+      <updated>1429230602480</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58566000" />
+    <option name="totallyTimeSpent" value="60521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -442,7 +446,8 @@
     <MESSAGE value="days left fixed" />
     <MESSAGE value="header changes" />
     <MESSAGE value="quotes fixes&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="quotes fixes&#10;" />
+    <MESSAGE value="image changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="image changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -455,6 +460,7 @@
         <state line="28" column="34" selection-start="1685" selection-end="1685" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="8194">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -480,6 +486,7 @@
         <state line="300" column="18" selection-start="18415" selection-end="18415" vertical-scroll-proportion="0.0" vertical-offset="5100" max-vertical-offset="8194">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -498,6 +505,7 @@
         <state line="48" column="42" selection-start="2684" selection-end="2684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -516,6 +524,7 @@
         <state line="48" column="42" selection-start="2684" selection-end="2684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -534,6 +543,7 @@
         <state line="451" column="67" selection-start="26960" selection-end="26960" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -557,6 +567,7 @@
         <state line="451" column="67" selection-start="26960" selection-end="26960" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -580,6 +591,7 @@
         <state line="383" column="41" selection-start="23570" selection-end="23570" vertical-scroll-proportion="0.0" vertical-offset="5406" max-vertical-offset="5406">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -598,6 +610,7 @@
         <state line="452" column="21" selection-start="27099" selection-end="27099" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4743">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -628,6 +641,7 @@
         <state line="53" column="55" selection-start="2898" selection-end="2898" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="4743">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -658,6 +672,7 @@
         <state line="76" column="18" selection-start="4421" selection-end="4421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7803">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -699,6 +714,7 @@
         <state line="347" column="33" selection-start="19707" selection-end="19707" vertical-scroll-proportion="0.0" vertical-offset="5734" max-vertical-offset="7361">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -724,6 +740,7 @@
         <state line="347" column="33" selection-start="19707" selection-end="19707" vertical-scroll-proportion="0.0" vertical-offset="5734" max-vertical-offset="7361">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -807,9 +824,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="301" column="72" selection-start="18856" selection-end="18856" vertical-scroll-proportion="0.27631578" vertical-offset="5033" max-vertical-offset="8347">
+        <state line="193" column="18" selection-start="10478" selection-end="10478" vertical-scroll-proportion="0.8881579" vertical-offset="3011" max-vertical-offset="8228">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
