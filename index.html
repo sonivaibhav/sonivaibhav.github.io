@@ -58,6 +58,49 @@
           google.maps.event.addDomListener(window, 'load', initialize);
 
       </script>
+      <link rel="stylesheet" href="photos/css/supersized.css" type="text/css" media="screen" />
+      <link rel="stylesheet" href="photos/theme/supersized.shutter.css" type="text/css" media="screen" />
+
+      <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+      <script type="text/javascript" src="photos/js/jquery.easing.min.js"></script>
+
+      <script type="text/javascript" src="photos/js/supersized.3.2.7.min.js"></script>
+      <script type="text/javascript" src="photos/theme/supersized.shutter.min.js"></script>
+
+      <script type="text/javascript">
+
+          jQuery(function($){
+
+              $.supersized({
+
+                  // Functionality
+                  slide_interval          :   3000,		// Length between transitions
+                  transition              :   1, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
+                  transition_speed		:	700,		// Speed of transition
+
+                  // Components
+                  slide_links				:	'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
+                  slides 					:  	[			// Slideshow Images
+                      {image : 'img/3.jpg', title : 'Image Credit: Maria Kazvan', thumb : 'img/3.jpg', url : 'img/3.jpg'},
+                      {image : 'img/10.jpg', title : 'Image Credit: Maria Kazvan', thumb : 'img/10.jpg', url : 'img/10.jpg'},
+                      {image : 'img/5.jpg', title : 'Image Credit: Maria Kazvan', thumb : 'img/5.jpg', url : 'img/5.jpg'},
+                      {image : 'img/7.jpg', title : 'Image Credit: Colin Wojno', thumb : 'img/7.jpg', url : 'img/7.jpg'},
+                      {image : 'img/12.jpg', title : 'Image Credit: Colin Wojno', thumb : 'img/12.jpg', url : 'img/12.jpg'},
+                      {image : 'img/17.jpg', title : 'Image Credit: Colin Wojno', thumb : 'img/17.jpg', url : 'img/17.jpg'},
+                      {image : 'img/1.jpg', title : 'Image Credit: Brooke Shaden', thumb : 'img/1.jpg', url : 'img/1.jpg'},
+                      {image : 'img/15.jpg', title : 'Image Credit: Brooke Shaden', thumb : 'img/15.jpg', url : 'img/15.jpg'},
+                      {image : 'img/14.jpg', title : 'Image Credit: Brooke Shaden', thumb : 'img/14.jpg', url : 'img/14.jpg'}
+                  ]
+
+              });
+          });
+
+      </script>
+      <style type="text/css">
+          ul#demo-block{ margin:0 15px 15px 15px; height: 600px}
+          ul#demo-block li{ margin:0 0 10px 0; padding:10px; display:inline; float:left; clear:both; color:#aaa; background:url('img/bg-black.png'); font:11px Helvetica, Arial, sans-serif; }
+          ul#demo-block li a{ color:#eee; font-weight:bold; }
+      </style>
       </head>
       <body id="top">
         <header id="home">
@@ -192,6 +235,7 @@
                 </div>
             </div>
         </section>
+
         <section class="swag text-center">
           <div class="container">
             <div class="row">
@@ -200,6 +244,57 @@
                 </div>
             </div>
           </div>
+        </section>
+        <section>
+            <!--Demo styles (you can delete this block)-->
+
+            <ul id="demo-block">
+                <!--<li><a href="http://buildinternet.com/project/supersized/" target="_blank"><img src="img/supersized-logo.png"/></a></li>
+                <li>Photographers: <a href="http://cargocollective.com/mariakazvan" target="_blank">Maria Kazvan</a>, <a href="http://colindub.com" target="_blank">Colin Wojno</a>, &amp; <a href="http://brookeshaden.com/" target="_blank">Brooke Shaden</a></li>
+            --></ul>
+
+            <!--End of styles-->
+
+            <!--Thumbnail Navigation-->
+            <div id="prevthumb"></div>
+            <div id="nextthumb"></div>
+
+            <!--Arrow Navigation-->
+            <a id="prevslide" class="load-item"></a>
+            <a id="nextslide" class="load-item"></a>
+
+            <div id="thumb-tray" class="load-item">
+                <div id="thumb-back"></div>
+                <div id="thumb-forward"></div>
+            </div>
+
+            <!--Time Bar-->
+            <div id="progress-back" class="load-item">
+                <div id="progress-bar"></div>
+            </div>
+
+            <!--Control Bar-->
+            <div id="controls-wrapper" class="load-item">
+                <div id="controls">
+
+                    <a id="play-button"><img id="pauseplay" src="img/pause.png"/></a>
+
+                    <!--Slide counter-->
+                    <div id="slidecounter">
+                        <span class="slidenumber"></span> / <span class="totalslides"></span>
+                    </div>
+
+                    <!--Slide captions displayed here-->
+                    <!--<div id="slidecaption"></div>-->
+
+                    <!--Thumb Tray button-->
+                    <a id="tray-button"><img id="tray-arrow" src="img/button-tray-up.png"/></a>
+
+                    <!--Navigation-->
+                    <ul id="slide-list"></ul>
+
+                </div>
+            </div>
         </section>
 
         <!--<section class="team text-center section-padding" id="team">-->
@@ -296,18 +391,7 @@
                 <!--</div>-->
             <!--</div>-->
         <!--</section>-->
-        <section id="wedding-location" class="wedding-location">
-            <div class="ignite-cta text-center">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-8 col-sm-offset-2 text-center">
-                            <span class="rsvp-title">We are ecstatic to celebrate this auspicious occasion with our friends and family.</span>
-                            <a href="#contact" class="btn default-btn">Wedding Location</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
         <section class="portfolio text-center section-padding" id="portfolio">
             <div class="container">
                 <div class="row">
@@ -405,7 +489,19 @@
                 </div>
             </div>
         </section>
-        <section class="subscribe text-center">
+        <section id="wedding-location" class="wedding-location">
+            <div class="ignite-cta text-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-2 text-center">
+                            <span class="rsvp-title">We are ecstatic to celebrate this auspicious occasion with our friends and family.</span>
+                            <a href="#contact" class="btn default-btn">Wedding Location</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--<section class="subscribe text-center">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 text-center">
@@ -413,7 +509,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
         <section class="dark-bg text-center section-padding contact-wrap" id="contact">
           <a href="#top" class="up-btn"><i class="fa fa-chevron-up"></i></a>
           <div class="container">
