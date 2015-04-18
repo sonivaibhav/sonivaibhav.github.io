@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\development\sonivaibhav.github.io\ResponsiveImageGallery\css\reset.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HalcyonDaysTemplate.iws" />
@@ -336,7 +333,7 @@
       <workItem from="1429119181978" duration="6276000" />
       <workItem from="1429129607633" duration="2845000" />
       <workItem from="1429220410759" duration="15262000" />
-      <workItem from="1429307138878" duration="10460000" />
+      <workItem from="1429307138878" duration="10537000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -398,11 +395,15 @@
       <created>1429393384508</created>
       <updated>1429393384508</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Slider for photo gallery&#10;">
+      <created>1429395570358</created>
+      <updated>1429395570358</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77142000" />
+    <option name="totallyTimeSpent" value="77219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
