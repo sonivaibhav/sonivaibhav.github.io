@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css" afterPath="$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HalcyonDaysTemplate.iws" />
@@ -67,24 +68,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="13" selection-start="3782" selection-end="3782" vertical-scroll-proportion="0.09366391" vertical-offset="0" max-vertical-offset="578">
+            <state line="90" column="40" selection-start="4114" selection-end="4114" vertical-scroll-proportion="-2.862745" vertical-offset="24" max-vertical-offset="2856">
               <folding>
                 <element signature="tag#head#0;tag#html#0" expanded="false" />
-                <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -93,16 +90,16 @@
       <file leaf-file-name="elastislide.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="15" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1292">
+            <state line="49" column="15" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1292">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="351" column="197" selection-start="23130" selection-end="23133" vertical-scroll-proportion="-3.68" vertical-offset="5875" max-vertical-offset="7395">
+            <state line="13" column="19" selection-start="548" selection-end="548" vertical-scroll-proportion="0.21671018" vertical-offset="138" max-vertical-offset="7395">
               <folding />
             </state>
           </provider>
@@ -133,9 +130,9 @@
         <option value="$PROJECT_DIR$/ResponsiveImageGallery/css/demo.css" />
         <option value="$PROJECT_DIR$/ResponsiveImageGallery/js/gallery.js" />
         <option value="$PROJECT_DIR$/ResponsiveImageGallery/css/reset.css" />
+        <option value="$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css" />
       </list>
     </option>
   </component>
@@ -235,6 +232,10 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
       <option name="MAIN_CLASS_NAME" />
@@ -246,10 +247,6 @@
       <option name="VM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -355,7 +352,8 @@
       <workItem from="1429119181978" duration="6276000" />
       <workItem from="1429129607633" duration="2845000" />
       <workItem from="1429220410759" duration="15262000" />
-      <workItem from="1429307138878" duration="17211000" />
+      <workItem from="1429307138878" duration="17523000" />
+      <workItem from="1429469183786" duration="2588000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -429,25 +427,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83893000" />
+    <option name="totallyTimeSpent" value="86793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27210885" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28231293" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28231293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27210885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28231293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -457,23 +453,25 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27210885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27210885" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16993958" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28231293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -521,6 +519,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="15" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="351" column="197" selection-start="23130" selection-end="23133" vertical-scroll-proportion="0.0" vertical-offset="5875" max-vertical-offset="7395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="34" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="7072">
@@ -533,18 +545,14 @@
         <state line="48" column="42" selection-start="2684" selection-end="2684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -561,18 +569,14 @@
         <state line="48" column="42" selection-start="2684" selection-end="2684" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -589,18 +593,14 @@
         <state line="451" column="67" selection-start="26960" selection-end="26960" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -622,18 +622,14 @@
         <state line="451" column="67" selection-start="26960" selection-end="26960" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8092">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -655,18 +651,14 @@
         <state line="383" column="41" selection-start="23570" selection-end="23570" vertical-scroll-proportion="0.0" vertical-offset="5406" max-vertical-offset="5406">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -683,18 +675,14 @@
         <state line="452" column="21" selection-start="27099" selection-end="27099" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4743">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -723,18 +711,14 @@
         <state line="53" column="55" selection-start="2898" selection-end="2898" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="4743">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -763,18 +747,14 @@
         <state line="76" column="18" selection-start="4421" selection-end="4421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7803">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -795,9 +775,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
@@ -812,27 +790,21 @@
         <state line="347" column="33" selection-start="19707" selection-end="19707" vertical-scroll-proportion="0.0" vertical-offset="5734" max-vertical-offset="7361">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
@@ -847,27 +819,21 @@
         <state line="347" column="33" selection-start="19707" selection-end="19707" vertical-scroll-proportion="0.0" vertical-offset="5734" max-vertical-offset="7361">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/countdown-decor.png">
@@ -957,13 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="351" column="197" selection-start="23130" selection-end="23133" vertical-scroll-proportion="-3.68" vertical-offset="5875" max-vertical-offset="7395">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="15" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1292">
@@ -973,22 +932,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="13" selection-start="3782" selection-end="3782" vertical-scroll-proportion="0.09366391" vertical-offset="0" max-vertical-offset="578">
+        <state line="90" column="40" selection-start="4114" selection-end="4114" vertical-scroll-proportion="-2.862745" vertical-offset="24" max-vertical-offset="2856">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#1;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#3;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#4;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#5;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#6;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#section#7;tag#body#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="19" selection-start="548" selection-end="548" vertical-scroll-proportion="0.21671018" vertical-offset="138" max-vertical-offset="7395">
+          <folding />
         </state>
       </provider>
     </entry>
