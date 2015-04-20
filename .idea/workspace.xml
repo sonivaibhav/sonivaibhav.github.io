@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="" />
+    <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="HalcyonDaysTemplate.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +69,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="139" column="59" selection-start="6478" selection-end="6478" vertical-scroll-proportion="0.3313253" vertical-offset="740" max-vertical-offset="3417">
+            <state line="217" column="40" selection-start="14602" selection-end="14602" vertical-scroll-proportion="0.89759034" vertical-offset="1589" max-vertical-offset="3417">
               <folding>
                 <element signature="tag#head#0;tag#html#0" expanded="false" />
                 <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -126,8 +128,8 @@
         <option value="$PROJECT_DIR$/ResponsiveImageGallery/js/gallery.js" />
         <option value="$PROJECT_DIR$/ResponsiveImageGallery/css/reset.css" />
         <option value="$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -348,7 +350,7 @@
       <workItem from="1429129607633" duration="2845000" />
       <workItem from="1429220410759" duration="15262000" />
       <workItem from="1429307138878" duration="17523000" />
-      <workItem from="1429469183786" duration="3248000" />
+      <workItem from="1429469183786" duration="4094000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -422,7 +424,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87453000" />
+    <option name="totallyTimeSpent" value="88299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -924,7 +926,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="59" selection-start="6478" selection-end="6478" vertical-scroll-proportion="0.3313253" vertical-offset="740" max-vertical-offset="3417">
+        <state line="217" column="40" selection-start="14602" selection-end="14602" vertical-scroll-proportion="0.89759034" vertical-offset="1589" max-vertical-offset="3417">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
