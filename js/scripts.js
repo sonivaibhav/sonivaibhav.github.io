@@ -32,6 +32,16 @@ $(document).ready(function() {
 	}, {
 		offset: '75%'
 	});
+    $(window).scroll(function() {
+        if ($(this).scrollTop() < 370)
+        {
+            $(".up-btn").css('display','none');
+        }
+        else
+        {
+            $(".up-btn").css('display','block');
+        }
+    });
 
 });
 
