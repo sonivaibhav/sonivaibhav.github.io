@@ -349,7 +349,7 @@ ul.social-buttons li:last-child { margin-right: 0; }
 /* ==========================================================================
 Contact
 ========================================================================== */
-.up-btn { width: 70px; height: 70px; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; -o-border-radius: 50%; background: rgba(61, 201, 179, 0.5); display: block; color: #fff; font-size: 18px; line-height: 46px; text-align: center; position: fixed; right: 0; bottom: 0; margin: 0 10px 20px 0; }
+.up-btn { width: 70px; height: 70px; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; -o-border-radius: 50%; background: rgba(61, 201, 179, 0.5); display: none; color: #fff; font-size: 18px; line-height: 46px; text-align: center; position: fixed; right: 0; bottom: 0; margin: 0 10px 20px 0; }
 .up-btn .top{display: block; position: relative; top: -18px}
 .up-btn:hover{ color: #fff; background: rgba(61, 201, 179, 1); }
 .up-btn:focus {color: #fff}
