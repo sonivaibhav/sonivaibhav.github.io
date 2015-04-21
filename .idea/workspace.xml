@@ -71,7 +71,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="275" column="159" selection-start="18129" selection-end="18129" vertical-scroll-proportion="0.3313253" vertical-offset="4412" max-vertical-offset="6681">
+            <state line="258" column="65" selection-start="16508" selection-end="16508" vertical-scroll-proportion="0.2379518" vertical-offset="4154" max-vertical-offset="6324">
               <folding>
                 <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
@@ -103,7 +103,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="387" column="20" selection-start="25135" selection-end="25135" vertical-scroll-proportion="-7.48" vertical-offset="6392" max-vertical-offset="7395">
+            <state line="232" column="7" selection-start="13835" selection-end="13835" vertical-scroll-proportion="-7.48" vertical-offset="3757" max-vertical-offset="7412">
               <folding />
             </state>
           </provider>
@@ -345,7 +345,7 @@
       <workItem from="1429220410759" duration="15262000" />
       <workItem from="1429307138878" duration="17523000" />
       <workItem from="1429469183786" duration="7526000" />
-      <workItem from="1429576424023" duration="4882000" />
+      <workItem from="1429576424023" duration="6511000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -419,11 +419,15 @@
       <created>1429501889723</created>
       <updated>1429501889723</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="changed text&#10;">
+      <created>1429582157670</created>
+      <updated>1429582157670</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96613000" />
+    <option name="totallyTimeSpent" value="98242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -440,6 +444,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -451,7 +456,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27210885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -508,7 +512,8 @@
     <MESSAGE value="Slider for photo gallery&#10;" />
     <MESSAGE value="scroll top functionality" />
     <MESSAGE value="UP button functionality fixed&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="UP button functionality fixed&#10;" />
+    <MESSAGE value="changed text&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed text&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -516,13 +521,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="15" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="833" max-vertical-offset="1292">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="351" column="197" selection-start="23130" selection-end="23133" vertical-scroll-proportion="0.0" vertical-offset="5875" max-vertical-offset="7395">
@@ -879,14 +877,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="387" column="20" selection-start="25135" selection-end="25135" vertical-scroll-proportion="-7.48" vertical-offset="6392" max-vertical-offset="7395">
+        <state line="232" column="7" selection-start="13835" selection-end="13835" vertical-scroll-proportion="-7.48" vertical-offset="3757" max-vertical-offset="7412">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/garabaevent.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="275" column="159" selection-start="18129" selection-end="18129" vertical-scroll-proportion="0.3313253" vertical-offset="4412" max-vertical-offset="6681">
+        <state line="258" column="65" selection-start="16508" selection-end="16508" vertical-scroll-proportion="0.2379518" vertical-offset="4154" max-vertical-offset="6324">
           <folding>
             <element signature="n#style#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="tag#section#2;tag#body#0;tag#html#0" expanded="false" />
