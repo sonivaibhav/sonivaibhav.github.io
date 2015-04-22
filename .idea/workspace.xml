@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
     </list>
     <ignored path="HalcyonDaysTemplate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,7 +102,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="400" column="23" selection-start="25604" selection-end="25604" vertical-scroll-proportion="0.7989556" vertical-offset="6494" max-vertical-offset="7497">
+            <state line="389" column="43" selection-start="25317" selection-end="25317" vertical-scroll-proportion="0.31070495" vertical-offset="6494" max-vertical-offset="7497">
               <folding />
             </state>
           </provider>
@@ -344,7 +344,7 @@
       <workItem from="1429220410759" duration="15262000" />
       <workItem from="1429307138878" duration="17523000" />
       <workItem from="1429469183786" duration="7526000" />
-      <workItem from="1429576424023" duration="15937000" />
+      <workItem from="1429576424023" duration="16838000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -430,7 +430,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107668000" />
+    <option name="totallyTimeSpent" value="108569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -915,7 +915,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="400" column="23" selection-start="25604" selection-end="25604" vertical-scroll-proportion="0.7989556" vertical-offset="6494" max-vertical-offset="7497">
+        <state line="389" column="43" selection-start="25317" selection-end="25317" vertical-scroll-proportion="0.31070495" vertical-offset="6494" max-vertical-offset="7497">
           <folding />
         </state>
       </provider>
