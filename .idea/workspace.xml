@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="" />
+    <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+    </list>
     <ignored path="HalcyonDaysTemplate.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -100,7 +102,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="389" column="34" selection-start="25308" selection-end="25308" vertical-scroll-proportion="0.33240223" vertical-offset="6494" max-vertical-offset="7497">
+            <state line="389" column="27" selection-start="25301" selection-end="25301" vertical-scroll-proportion="0.33240223" vertical-offset="6494" max-vertical-offset="7497">
               <folding />
             </state>
           </provider>
@@ -342,7 +344,7 @@
       <workItem from="1429220410759" duration="15262000" />
       <workItem from="1429307138878" duration="17523000" />
       <workItem from="1429469183786" duration="7526000" />
-      <workItem from="1429576424023" duration="13982000" />
+      <workItem from="1429576424023" duration="14370000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -424,7 +426,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105713000" />
+    <option name="totallyTimeSpent" value="106101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -735,7 +737,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
@@ -760,7 +764,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
@@ -785,7 +791,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/countdown-decor.png">
@@ -902,7 +910,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="389" column="34" selection-start="25308" selection-end="25308" vertical-scroll-proportion="0.33240223" vertical-offset="6494" max-vertical-offset="7497">
+        <state line="389" column="27" selection-start="25301" selection-end="25301" vertical-scroll-proportion="0.33240223" vertical-offset="6494" max-vertical-offset="7497">
           <folding />
         </state>
       </provider>
