@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HalcyonDaysTemplate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,7 +70,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="32" selection-start="6214" selection-end="6220" vertical-scroll-proportion="-2.1568627" vertical-offset="1590" max-vertical-offset="6001">
+            <state line="59" column="13" selection-start="3102" selection-end="3102" vertical-scroll-proportion="-5.8431373" vertical-offset="705" max-vertical-offset="6001">
               <folding>
                 <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#nav#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
@@ -102,7 +103,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="389" column="27" selection-start="25301" selection-end="25301" vertical-scroll-proportion="0.33240223" vertical-offset="6494" max-vertical-offset="7497">
+            <state line="389" column="37" selection-start="25311" selection-end="25311" vertical-scroll-proportion="0.31070495" vertical-offset="6494" max-vertical-offset="7497">
               <folding />
             </state>
           </provider>
@@ -344,7 +345,7 @@
       <workItem from="1429220410759" duration="15262000" />
       <workItem from="1429307138878" duration="17523000" />
       <workItem from="1429469183786" duration="7526000" />
-      <workItem from="1429576424023" duration="14370000" />
+      <workItem from="1429576424023" duration="15673000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -426,14 +427,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106101000" />
+    <option name="totallyTimeSpent" value="107404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28231293" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28231293" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28231293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -876,13 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="15" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1292">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/garabaevent.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -895,9 +889,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="15" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="32" selection-start="6214" selection-end="6220" vertical-scroll-proportion="-2.1568627" vertical-offset="1590" max-vertical-offset="6001">
+        <state line="59" column="13" selection-start="3102" selection-end="3102" vertical-scroll-proportion="-5.8431373" vertical-offset="705" max-vertical-offset="6001">
           <folding>
             <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#nav#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
@@ -910,7 +911,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="389" column="27" selection-start="25301" selection-end="25301" vertical-scroll-proportion="0.33240223" vertical-offset="6494" max-vertical-offset="7497">
+        <state line="389" column="37" selection-start="25311" selection-end="25311" vertical-scroll-proportion="0.31070495" vertical-offset="6494" max-vertical-offset="7497">
           <folding />
         </state>
       </provider>
