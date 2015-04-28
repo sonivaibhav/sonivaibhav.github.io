@@ -14,6 +14,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
 #home nav .top-nav {
     text-align: center;
 }
+@media(max-width: 320px){#home > nav{display: none;}}
 /* * Corrects `inline-block` display not defined in IE 6/7/8/9 and Firefox 3. */
 audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 /* * Prevents modern browsers from displaying `audio` without controls.
@@ -184,7 +185,10 @@ p { color: #8c9398; word-spacing: 1px; line-height: 25px; padding: 0 2px 0 2px;}
 h2 { font-size: 15px; color: #353535; text-transform: uppercase; font-weight: bold; }
 h2::after { content: " "; border: solid 2px #3dc9b3; display: block; width: 35px; margin: 25px auto; }
 .section-padding { padding: 90px 0 100px }
-.dark-bg { background: #f3f5f8; }
+@media(max-width: 320px){
+    .section-padding { padding: 25px 0 25px }
+}
+.dark-bg { background: #E8E8E8; }
 .light-bg { background-color: #fff; }
 .dark-box { background: #f3f5f8; -webkit-box-shadow: 0px 3px 0px 0px #f0f2f4; -moz-box-shadow: 0px 3px 0px 0px #f0f2f4; box-shadow: 0px 3px 0px 0px #f0f2f4; }
 .light-box { background-color: #fff; -webkit-box-shadow: 0px 3px 0px 0px #f0f2f4; -moz-box-shadow: 0px 3px 0px 0px #f0f2f4; box-shadow: 0px 3px 0px 0px #f0f2f4; padding: 20px 0; }
@@ -195,6 +199,7 @@ h2::after { content: " "; border: solid 2px #3dc9b3; display: block; width: 35px
 .wrapper { height: 650px; }
 .nopadding { padding: 0; }
 .inner { padding-top: 170px; }
+@media(max-width: 320px){.inner{padding: 88px}}
 /* ==========================================================================
 Navigation
 ========================================================================== */
@@ -221,22 +226,38 @@ nav ul li a:hover, nav ul li a:focus { text-decoration: none; color: rgba(255, 2
 Hero
 ========================================================================== */
 .hero { background: url('../img/hero-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; text-align: center;}
+@media(max-width: 320px){
+    .hero{padding: 0;}
+}
 .hero h1 { font-size: 50px; letter-spacing: 12px; margin: 10px; position: relative; top: -53px; font-family: 'lobster',cursive;}
 .hero h1 span { color: #ffffff; display: inline-block; }
+@media(max-width: 320px){
+    .hero h1 span{display: block;}
+    .hero h1 {font-size:24px;}
+}
 .hero p { letter-spacing: 1px; }
 .learn-more-btn { background: rgba(61, 201, 179, 1); padding: 20px 40px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; -o-border-radius: 5px; color: #fff; text-transform: uppercase; letter-spacing: 1px; display: inline-block; -webkit-box-shadow: 0px 3px 0px 0px #309383; -moz-box-shadow: 0px 3px 0px 0px #309383; box-shadow: 0px 3px 0px 0px #309383; margin: 60px 0 0; font-weight: bold; }
 .learn-more-btn:hover, .learn-more-btn:focus { background: rgba(61, 201, 179, 0.6); color: #fff; }
 /* ==========================================================================
 Music
 ========================================================================== */
-.music{position: fixed;top: 9px;float: right;right: 0;z-index: 1050;}
+.music{position: fixed; float: right; right: 0; z-index: 1050;}
+@media(min-width: 768px){
+    .music{top:9px}
+}
+@media(max-width: 320px){
+    .music{bottom: -6px; right: 10px}
+}
 /*.music audio{width: 237px;}*/
 /* ==========================================================================
 Intro
 ========================================================================== */
-.intro { background: #f3f5f8; }
+.intro { background: #E8E8E8; }
 .intro .love-nikhil-dhara{margin: 0;text-align: left;float: right;}
 .intro p { margin: 50px 0 0; }
+@media (max-width: 320px){
+    .intro p { margin: 15px 0 0; }
+}
 h1.arrow { font-size: 15px; text-transform: uppercase; color: #353535; letter-spacing: 1px; background: url('../img/h1-bg.png') no-repeat center bottom; padding-bottom: 30px; font-weight: bold; }
 /* ==========================================================================
 Features
@@ -254,6 +275,7 @@ iPhone Section
 Swag
 ========================================================================== */
 .swag { background: url('../img/plants-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 150px 0; }
+@media(max-width: 320px){.swag{padding: 50px 0;}}
 .swag h1 { color: #fff; font-size: 40px; text-transform: uppercase; letter-spacing: 5px; }
 .swag h1 span { display: block; font-size: 25px; margin-top: 20px; }
 .down-arrow-btn { width: 40px; height: 40px; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; -o-border-radius: 50%; background: rgba(61, 201, 179, 0.8); display: inline-block; margin: 10px auto 20px; color: #fff; font-size: 16px; line-height: 40px; text-align: center; }
@@ -279,6 +301,9 @@ a.expand { display: block; position: absolute; z-index: 100; text-align: center;
 .img img { width: -webkit-calc(100% + 40px) !important; width: calc(100% + 40px) !important; -webkit-transition: opacity 0.35s, -webkit-transform 0.35s; transition: opacity 0.35s, transform 0.35s; -moz-transition: opacity 0.35s, -moz-transform 0.35s; -o-transition: opacity 0.35s, -o-transform 0.35s; -webkit-transform: translate3d(-40px, 0, 0); transform: translate3d(-40px, 0, 0); -ms-transform: translate3d(-40px, 0, 0);   height: 250px !important;}
 .img:hover img { -webkit-transform: translate3d(0, 0, 0); transform: translate3d(0, 0, 0); -ms-transform: translate3d(-40px, 0, 0); }
 .designs { position: absolute; left: 0; right: 0; margin-left: auto; margin-right: auto; top: 50px; }
+@media (max-width: 320px){
+    .designs{top: -50px}
+}
 /* ==========================================================================
 Subscribe
 ========================================================================== */
@@ -297,6 +322,9 @@ CTA
     background-position-y: 0;
 }
 .ignite-cta { background: rgba(0,0,0,.7); padding: 100px 0; }
+@media(max-width: 320px){
+    .ignite-cta{padding: 25px 0}
+}
 .ignite-btn { display: inline-block; padding: 25px 40px; color: #fff; border: solid 1px #fff; text-transform: uppercase; font-weight: bold; letter-spacing: 1px; }
 .ignite-btn:hover, .ignite-btn:focus { color: #3dc9b3; border: solid 1px #3dc9b3; }
 .rsvp-title {
@@ -307,6 +335,9 @@ CTA
     line-height: normal;
     margin-bottom: 25px;
     letter-spacing: 0.025em;
+}
+@media(max-width: 320px){
+    .rsvp-title{margin-bottom: 0; font-size: 25px;}
 }
 .rsvp a {
     margin: 0 20px;
@@ -359,7 +390,17 @@ Contact
 .up-btn .top{display: block; position: relative; top: -18px}
 .up-btn:hover{ color: #fff; background: rgba(61, 201, 179, 1); }
 .up-btn:focus {color: #fff}
+@media(max-width: 320px){
+    .up-btn{width: 40px; height: 40px; margin: 0 1px 30px 0;}
+    .up-btn .top{display: none;}
+    .up-btn i {position: relative;top: -3px;}
+}
 .contact-details { margin: 70px 0; }
+.contact-details img{width: 100%; height: 450px;}
+@media (max-width: 320px){
+    .contact-details { margin: 25px 0;}
+    .contact-details img{ height: 200px;}
+}
 .contact-details h2 { font-size: 20px; }
 .contact-details h2 span { display: block; color: #3dc9b3; text-transform: uppercase; letter-spacing: 1px; font-size: 14px; margin-top: 15px; }
 .contact-wrap { position: relative; }
@@ -368,6 +409,9 @@ Footer
 ========================================================================== */
 footer a { color: #a1a9b0; }
 footer { background-color: #242830; padding: 40px 0 30px; font-size: 1.2em}
+@media (max-width: 320px){
+    footer{padding: 25px 0}
+}
 footer p { color: #fff; }
 ul.legals { list-style: none; color: #fff; line-height: 25px; }
 ul.legals li { display: inline-block; }

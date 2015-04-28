@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -67,10 +68,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="13" selection-start="3102" selection-end="3102" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="6511">
+            <state line="313" column="55" selection-start="21039" selection-end="21039" vertical-scroll-proportion="0.3313253" vertical-offset="5211" max-vertical-offset="6511">
               <folding />
             </state>
           </provider>
@@ -79,7 +80,7 @@
       <file leaf-file-name="scripts.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="0" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="2142">
+            <state line="50" column="0" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="2142">
               <folding />
             </state>
           </provider>
@@ -94,10 +95,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="392" column="8" selection-start="25445" selection-end="25445" vertical-scroll-proportion="0.44386423" vertical-offset="6494" max-vertical-offset="7497">
+            <state line="401" column="41" selection-start="24824" selection-end="24824" vertical-scroll-proportion="-8.16" vertical-offset="6613" max-vertical-offset="8245">
               <folding />
             </state>
           </provider>
@@ -129,8 +130,8 @@
         <option value="$PROJECT_DIR$/ResponsiveImageGallery/css/reset.css" />
         <option value="$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -174,7 +175,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -340,7 +341,9 @@
       <workItem from="1429307138878" duration="17523000" />
       <workItem from="1429469183786" duration="7526000" />
       <workItem from="1429576424023" duration="17541000" />
-      <workItem from="1429754888277" duration="602000" />
+      <workItem from="1429754888277" duration="2130000" />
+      <workItem from="1429982373656" duration="748000" />
+      <workItem from="1430180717493" duration="7517000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -426,11 +429,23 @@
       <created>1429670592816</created>
       <updated>1429670592816</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="text for proposal&#10;">
+      <created>1429755707212</created>
+      <updated>1429755707212</updated>
+    </task>
+    <task id="LOCAL-00023" summary="removed countdown temporary">
+      <created>1429755858278</created>
+      <updated>1429755858278</updated>
+    </task>
+    <task id="LOCAL-00024" summary="removed countdown temporary&#10;">
+      <created>1429760002362</created>
+      <updated>1429760002362</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109874000" />
+    <option name="totallyTimeSpent" value="119667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -517,7 +532,9 @@
     <MESSAGE value="UP button functionality fixed&#10;" />
     <MESSAGE value="changed text&#10;" />
     <MESSAGE value="text for proposal&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="text for proposal&#10;" />
+    <MESSAGE value="removed countdown temporary" />
+    <MESSAGE value="removed countdown temporary&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed countdown temporary&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -640,7 +657,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.countdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="10710" />
+        <state line="11" column="0" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="10710">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -664,7 +683,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.countdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="10710" />
+        <state line="11" column="0" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="10710">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -683,7 +704,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.countdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10710" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10710">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -741,7 +764,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.countdown.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="536" selection-end="536" vertical-scroll-proportion="-0.18149467" vertical-offset="204" max-vertical-offset="10625" />
+        <state line="11" column="0" selection-start="536" selection-end="536" vertical-scroll-proportion="-0.18149467" vertical-offset="204" max-vertical-offset="10625">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.imagesloaded.min.js">
@@ -781,22 +806,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ResponsiveImageGallery/js/gallery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="33" selection-start="1754" selection-end="1754" vertical-scroll-proportion="-4.28" vertical-offset="913" max-vertical-offset="4505" />
+        <state line="60" column="33" selection-start="1754" selection-end="1754" vertical-scroll-proportion="-4.28" vertical-offset="913" max-vertical-offset="4505">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ResponsiveImageGallery/js/jquery.easing.1.3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="60" selection-start="131" selection-end="131" vertical-scroll-proportion="-1.04" vertical-offset="25" max-vertical-offset="3570" />
+        <state line="3" column="60" selection-start="131" selection-end="131" vertical-scroll-proportion="-1.04" vertical-offset="25" max-vertical-offset="3570">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ResponsiveImageGallery/js/jquery.elastislide.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="180" selection-end="180" vertical-scroll-proportion="-3.08" vertical-offset="25" max-vertical-offset="8024" />
+        <state line="6" column="27" selection-start="180" selection-end="180" vertical-scroll-proportion="-3.08" vertical-offset="25" max-vertical-offset="8024">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ResponsiveImageGallery/js/jquery.tmpl.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="92" selection-start="92" selection-end="92" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102" />
+        <state line="0" column="92" selection-start="92" selection-end="92" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/garabaevent.jpg">
@@ -818,16 +851,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="13" selection-start="3102" selection-end="3102" vertical-scroll-proportion="0.0" vertical-offset="1003" max-vertical-offset="6511">
+        <state line="401" column="41" selection-start="24824" selection-end="24824" vertical-scroll-proportion="-8.16" vertical-offset="6613" max-vertical-offset="8245">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="392" column="8" selection-start="25445" selection-end="25445" vertical-scroll-proportion="0.44386423" vertical-offset="6494" max-vertical-offset="7497">
+        <state line="313" column="55" selection-start="21039" selection-end="21039" vertical-scroll-proportion="0.3313253" vertical-offset="5211" max-vertical-offset="6511">
           <folding />
         </state>
       </provider>
