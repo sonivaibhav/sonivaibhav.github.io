@@ -470,6 +470,7 @@ Waypoints
 .map-canvas {
     height: 500px;
 }
+@media(max-width: 420px){.map-canvas{height: 280px;}}
 /*Photo gallery styles*/
 #photo_gallery > ol,ul {
     list-style:none;
