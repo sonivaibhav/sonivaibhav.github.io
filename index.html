@@ -364,6 +364,12 @@
         </footer>
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script>
+        	document.addEventListener('touchstart', function () {
+    document.getElementsByTagName('audio')[0].play();
+    document.getElementsByTagName('audio')[0].pause();
+});
+        </script>
         <script src="js/waypoints.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/scripts.js"></script>
