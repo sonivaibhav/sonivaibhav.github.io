@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="a7082a1d-87da-4564-a44d-f35e02d938e0" name="Default" comment="mobile changes&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
     </list>
     <ignored path="HalcyonDaysTemplate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,10 +66,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="313" column="55" selection-start="21039" selection-end="21039" vertical-scroll-proportion="0.3313253" vertical-offset="5211" max-vertical-offset="6511">
+            <state line="313" column="55" selection-start="21039" selection-end="21039" vertical-scroll-proportion="-2.1568627" vertical-offset="5211" max-vertical-offset="6511">
               <folding />
             </state>
           </provider>
@@ -93,10 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="401" column="41" selection-start="24824" selection-end="24824" vertical-scroll-proportion="-8.16" vertical-offset="6613" max-vertical-offset="8245">
+            <state line="399" column="20" selection-start="24736" selection-end="24736" vertical-scroll-proportion="0.66480446" vertical-offset="6545" max-vertical-offset="8245">
               <folding />
             </state>
           </provider>
@@ -128,8 +128,8 @@
         <option value="$PROJECT_DIR$/ResponsiveImageGallery/css/reset.css" />
         <option value="$PROJECT_DIR$/ResponsiveImageGallery/css/elastislide.css" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -341,7 +341,7 @@
       <workItem from="1429576424023" duration="17541000" />
       <workItem from="1429754888277" duration="2130000" />
       <workItem from="1429982373656" duration="748000" />
-      <workItem from="1430180717493" duration="7612000" />
+      <workItem from="1430180717493" duration="8317000" />
     </task>
     <task id="LOCAL-00001" summary="First commit&#10;&#10;App Basic Foundation&#10;">
       <created>1429116158100</created>
@@ -447,7 +447,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119762000" />
+    <option name="totallyTimeSpent" value="120467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -854,16 +854,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="401" column="41" selection-start="24824" selection-end="24824" vertical-scroll-proportion="-8.16" vertical-offset="6613" max-vertical-offset="8245">
+        <state line="313" column="55" selection-start="21039" selection-end="21039" vertical-scroll-proportion="-2.1568627" vertical-offset="5211" max-vertical-offset="6511">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="313" column="55" selection-start="21039" selection-end="21039" vertical-scroll-proportion="0.3313253" vertical-offset="5211" max-vertical-offset="6511">
+        <state line="399" column="20" selection-start="24736" selection-end="24736" vertical-scroll-proportion="0.66480446" vertical-offset="6545" max-vertical-offset="8245">
           <folding />
         </state>
       </provider>
